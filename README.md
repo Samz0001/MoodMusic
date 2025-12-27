@@ -1,7 +1,4 @@
-Sure 👍
-Here’s a **clean, professional README.md** for your **MoodMusic (MoodChanger – Mood Detector)** project. It’s internship / GitHub ready and easy to understand.
 
----
 
 # 🎵 MoodMusic – Mood-Based Music Recommendation System
 
